@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[nathan.line[at]pm.me]
+email: nathan.line[at]pm.me
